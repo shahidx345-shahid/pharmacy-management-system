@@ -1,8 +1,11 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+<<<<<<< HEAD
 @custom-variant dark (&:is(.dark *));
 
+=======
+>>>>>>> d22710518854bcbcdd1fe1d19f4d2e49ae22f10a
 @layer utilities {
   .dark {
     color-scheme: dark;
